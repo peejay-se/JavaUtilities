@@ -32,6 +32,6 @@ Kalender [filnamn] [årtal]
 
 Dubbelklickar du på filen som heter MinTidrapport2023.xml så skall Excel startas med filen om allt gått rätt till.
 
-Så här kan arbetsboken se ut:
+Så här kan arbetsboken se ut ( ett helt år ). Dagarnas språk beror på din språkinställning.
 ![Arbetsbok](img/Tidrapport.png)
 ***
