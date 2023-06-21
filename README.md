@@ -18,13 +18,16 @@ Exempel
 ```bash
 javac Kalender.java
 ```
-Då kommer en fil som heter Kalender.class att skapas. Den går sedan att köra med kommandot:
+
+Då kommer en fil som heter Kalender.class att skapas. Den går sedan att starta med kommandot:
 ```bash
 java Kalender MinTidrapport2023.xml 2023
 ```
-Programmet tar argumenten [filnamn] och därefter [årtal]
+
+Kalender [filnamn] [årtal]
+
 ![img/OfficeXMLExcel.png]
-Dubbelklickar du på filen som heter MinTidrapport2023.xml så skall Excel startas med filen om att är rätt.
+Dubbelklickar du på filen som heter MinTidrapport2023.xml så skall Excel startas med filen om allt gått rätt till.
 
 Så här kan den se ut.
 ![Tidrapport.png]
