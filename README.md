@@ -28,7 +28,7 @@ Programmets argument
 ```bash
 Kalender [filnamn] [årtal]
 ```
-![img/OfficeXMLExcel.png]
+![Ikon](img/OfficeXMLExcel.png)
 
 Dubbelklickar du på filen som heter MinTidrapport2023.xml så skall Excel startas med filen om allt gått rätt till.
 
