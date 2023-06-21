@@ -11,8 +11,9 @@ Skapar en Excelarbetsbok och koden som skapas är OfficeXML. Har man rätt versi
 får en Excelikon. Då kan man dubbelklicka på den i Utforskaren och då startas Excel. Sen får man spara ned den i
 Excels egna format xlsx genom Spara Som.
 
-Kopiera ned Java klassen och kommentera bort alternativ radera första raden med "package se.peejay.labs;" 
-Då slipper du skapa underkataloger såsom se/peejay/labs och lägga den kompilerade (.class) filen där.
+Kopiera ned Java klassen och kommentera bort/radera första raden med koden "package se.peejay.labs;" 
+Då slipper du skapa underkataloger så som se/peejay/labs och lägga den kompilerade (.class) filen där för att det 
+ska gå att köra.
 
 Exempel
 ```bash
