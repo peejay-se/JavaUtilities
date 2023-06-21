@@ -8,8 +8,8 @@ som kommer ifrån Eclipse Foundation.
 **Kalender (se.peejay.labs)**
 
 Skapar en Excelarbetsbok och koden som skapas är OfficeXML. Har man rätt version av Excel installerad så ska filen
-får en Excelikon. Då kan man dubbelklicka på den i Utforskaren och då startas Excel. Sen får man spara ned den i
-Excels egna format xlsx genom Spara Som.
+få en Excelikon. Då kan man dubbelklicka på den i Utforskaren och då startas Excel. Sen får man spara ned den i
+Excels egna format .xlsx genom Spara Som.
 
 Kopiera ned Java klassen och kommentera bort/radera första raden med koden "package se.peejay.labs;" 
 Då slipper du skapa underkataloger så som se/peejay/labs och lägga den kompilerade (.class) filen där för att det 
