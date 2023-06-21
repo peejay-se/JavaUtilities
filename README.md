@@ -22,7 +22,7 @@ javac Kalender.java
 
 Då kommer en fil som heter Kalender.class att skapas. Den går sedan att starta med kommandot:
 ```bash
-java Kalender MinTidrapport2023.xml 2023
+java Kalender MinTidrapport2021.xml 2021
 ```
 
 Kalender [filnamn] [årtal]
